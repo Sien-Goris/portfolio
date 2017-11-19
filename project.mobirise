@@ -314,7 +314,9 @@
               "color": "#f1fde5"
             },
             ".mbr-section-title": {
-              "color": "#f1fde5"
+              "color": "#f1fde5",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             },
             "SMALL": {
               "color": "#f1fde5"

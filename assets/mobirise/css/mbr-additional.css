@@ -14,6 +14,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -470,6 +471,7 @@ h6,
 }
 #form1-d .mbr-section-title {
   color: #f1fde5;
+  font-family: 'PT Sans', sans-serif;
 }
 #form1-d SMALL {
   color: #f1fde5;
