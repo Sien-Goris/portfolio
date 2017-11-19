@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 92,
+    "uniqCompNum": 96,
     "versionPublish": "4.3.0",
     "favicon": "",
     "noImageResize": ""
@@ -111,7 +111,7 @@
             "paddingBottom": 1,
             "bgColor": "#383e32"
           },
-          "title": "biografie",
+          "title": "<span style=\"font-weight: normal;\">biografie</span>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -121,11 +121,11 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "1",
             "paddingBottom": 1,
             "bgColor": "#383e32"
           },
-          "text": "<p>Sien Goris is een beginnend schilder, momenteel studerend aan LUCA school of arts te Gent. </p><p>Haar werk is hoofdzakelijk realistisch, en heeft als onderwerp het dagdagelijkse.</p><p><br></p>",
+          "text": "<p>Sien Goris (°11 oktober 1998) is een beginnend schilder, momenteel studerend aan LUCA school of arts te Gent. </p><p>Haar werk is hoofdzakelijk realistisch, en heeft als onderwerp het dagdagelijkse.</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -140,117 +140,87 @@
           }
         },
         {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2k"
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#383e32",
-              "text-align": "center"
+              "color": "#edffdb",
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff",
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "text-align": "left"
             }
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#ffffff"
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#383e32"
           },
-          "title": "TUIN",
+          "title": "<span style=\"font-weight: normal;\">werken</span>",
           "meta": "",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-g"
+          "_anchor": "header3-2l"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
           "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#383e32"
+          },
+          "text": "<p><a href=\"page2.html#header3-w\">Tuin</a></p><p><a href=\"page3.html#header3-1c\">Familie &amp; vrienden</a></p><p><a href=\"page4.html#header3-1p\">Modelschilderen</a></p><p><a href=\"page5.html#header3-22\">Landschappen</a></p><p><a href=\"page6.html#header3-2f\">Zelfportretten</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2m",
+          "_styles": {
+            "P": {
+              "color": "#efefef",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            "DIV": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "color": "#efefef"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "title": "FAMILIE &amp; VRIENDEN<br>",
-          "meta": "By John Smith posted July 20, 2016",
+          "text": "",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-i"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#383e32"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "title": "MODELSCHILDEREN",
-          "meta": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-h"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#383e32"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#ffffff"
-          },
-          "title": "LANDSCHAPPEN",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-s"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#383e32"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "title": "ZELFPORTRETTEN",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-r"
+          "_name": "content1",
+          "_anchor": "content1-2n"
         },
         {
           "_params": {

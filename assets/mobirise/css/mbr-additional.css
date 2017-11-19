@@ -11,6 +11,10 @@
 
 
 
+
+
+
+
 body,
 input,
 textarea,
@@ -443,38 +447,27 @@ h6,
   color: #efefef;
   font-family: 'PT Sans', sans-serif;
 }
-#header3-g .mbr-section-title,
-#header3-g .mbr-section-subtitle {
+#header3-2l .mbr-section-title,
+#header3-2l .mbr-section-subtitle {
   text-align: center;
 }
-#header3-g .mbr-section-title {
-  color: #383e32;
-  text-align: center;
+#header3-2l .mbr-section-title {
+  color: #edffdb;
+  font-family: 'PT Sans Narrow', sans-serif;
+  text-align: left;
 }
-#header3-i .mbr-section-title,
-#header3-i .mbr-section-subtitle {
-  text-align: center;
+#header3-2l .mbr-section-subtitle {
+  color: #ffffff;
+  font-family: 'PT Sans Narrow', sans-serif;
+  text-align: left;
 }
-#header3-h .mbr-section-title,
-#header3-h .mbr-section-subtitle {
-  text-align: center;
+#content1-2m P {
+  color: #efefef;
+  font-family: 'PT Sans', sans-serif;
 }
-#header3-h .mbr-section-title {
-  color: #383e32;
-}
-#header3-s .mbr-section-title,
-#header3-s .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-s .mbr-section-title {
-  color: #383e32;
-}
-#header3-r .mbr-section-title,
-#header3-r .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-r .mbr-section-title {
-  color: #383e32;
+#content1-2m DIV {
+  font-family: 'PT Sans', sans-serif;
+  color: #efefef;
 }
 #form1-d .form-control-label {
   color: #f1fde5;
