@@ -69,7 +69,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": true,
+            "showArrow": false,
             "contentAlign": "right",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/familie-2-2000x1523.jpg",
@@ -140,19 +140,6 @@
           }
         },
         {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-2k"
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -170,7 +157,9 @@
               "text-align": "left"
             },
             ".mbr-section-title SPAN": {
-              "color": "#edffdb"
+              "color": "#edffdb",
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
             }
           },
           "_params": {
@@ -186,6 +175,19 @@
           ],
           "_name": "header3",
           "_anchor": "header3-2l"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2k"
         },
         {
           "_params": {
