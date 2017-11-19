@@ -152,7 +152,7 @@
           "_params": {
             "showMeta": true,
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
           "title": "TUIN",
@@ -250,7 +250,7 @@
           "_params": {
             "showMeta": false,
             "paddingTop": "2",
-            "paddingBottom": 1,
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "title": "FAMILIE &amp; VRIENDEN<br>",
@@ -318,7 +318,7 @@
           "_params": {
             "showMeta": true,
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "title": "MODELSCHILDEREN",
@@ -386,7 +386,7 @@
           "_params": {
             "showMeta": false,
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
           "title": "LANDSCHAPPEN",
@@ -443,7 +443,7 @@
           "_params": {
             "showMeta": false,
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "title": "ZELFPORTRETTEN",
@@ -491,46 +491,46 @@
         {
           "_params": {
             "showTitle": true,
-            "showSubTitle": true,
-            "labelsColor": "#9c9a9a",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "showSubTitle": false,
+            "labelsColor": "#f1fde5",
+            "paddingTop": "2",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f9b279",
+            "bgColor": "#383e32",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "CONTACT FORM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "title": "CONTACT",
+          "subtitle": "",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
           "form": {
             "action": "sieni.SG@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Uw bericht is met succes verstuurd."
             },
             "fields": {
               "name": {
                 "visible": true,
                 "title": "Name",
-                "customTitle": "Name*"
+                "customTitle": "Naam*"
               },
               "email": {
                 "visible": true,
                 "title": "Email",
-                "customTitle": "Email*"
+                "customTitle": "E-mail*"
               },
               "phone": {
-                "visible": true,
+                "visible": false,
                 "title": "Phone",
-                "customTitle": "Phone"
+                "customTitle": "Telefoon"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "bericht"
               }
             }
           },
@@ -541,39 +541,13 @@
           "_anchor": "form1-d",
           "_styles": {
             ".form-control-label": {
-              "color": "#9c9a9a"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f9b279",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "address": "sint-lucas beeldende kunsten Gent",
-              "placeId": "ChIJh49Yh0Fxw0cRajHMv_e7C54",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<font color=\"#90a878\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>instelling</b></span></font><br>LUCA school of arts<br><br><br>\n<strong>Campus</strong><br>Alexianenplein 1<br>9000 Gent",
-          "text2": "<div><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"letter-spacing: -1px;\"><b></b></span></font></div>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-3",
-          "_styles": {
-            "STRONG": {
-              "color": "#90a878"
+              "color": "#f1fde5"
+            },
+            ".mbr-section-title": {
+              "color": "#f1fde5"
+            },
+            "SMALL": {
+              "color": "#f1fde5"
             }
           }
         },
@@ -592,7 +566,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">REEKSEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-g\">tuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-i\">familie &amp; vrienden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery3-k\">modelschilderen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery2-p\">landschappen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery2-q\">zelfportretten</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">tekeningen</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-d\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">REEKSEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">TUIN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-i\" aria-expanded=\"false\">FAMILIE &amp; VRIENDEN<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-h\" aria-expanded=\"false\">MODELSCHILDEREN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-s\" aria-expanded=\"false\">LANDSCHAPPEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-r\" aria-expanded=\"false\">ZELFPORTRETTEN</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -721,7 +695,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">REEKSEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-g\">tuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-i\">familie &amp; vrienden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery3-k\">modelschilderen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery2-p\">landschappen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery2-q\">zelfportretten</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">tekeningen</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-d\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">REEKSEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">TUIN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-i\" aria-expanded=\"false\">FAMILIE &amp; VRIENDEN<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-h\" aria-expanded=\"false\">MODELSCHILDEREN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-s\" aria-expanded=\"false\">LANDSCHAPPEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-r\" aria-expanded=\"false\">ZELFPORTRETTEN</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1351,7 +1325,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">REEKSEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-g\">tuin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-i\">familie &amp; vrienden</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery3-k\">modelschilderen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery2-p\">landschappen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery2-q\">zelfportretten</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">tekeningen</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-d\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">REEKSEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">TUIN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-i\" aria-expanded=\"false\">FAMILIE &amp; VRIENDEN<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-h\" aria-expanded=\"false\">MODELSCHILDEREN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-s\" aria-expanded=\"false\">LANDSCHAPPEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-r\" aria-expanded=\"false\">ZELFPORTRETTEN</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],

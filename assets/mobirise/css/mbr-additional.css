@@ -477,10 +477,13 @@ h6,
   color: #383e32;
 }
 #form1-d .form-control-label {
-  color: #9c9a9a;
+  color: #f1fde5;
 }
-#contacts2-3 STRONG {
-  color: #90a878;
+#form1-d .mbr-section-title {
+  color: #f1fde5;
+}
+#form1-d SMALL {
+  color: #f1fde5;
 }
 #ext_menu-4 .hide-buttons .nav-btn {
   display: none !important;
