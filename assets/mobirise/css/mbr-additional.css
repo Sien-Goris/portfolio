@@ -461,6 +461,9 @@ h6,
   font-family: 'PT Sans Narrow', sans-serif;
   text-align: left;
 }
+#header3-2l .mbr-section-title SPAN {
+  color: #edffdb;
+}
 #content1-2m P {
   color: #efefef;
   font-family: 'PT Sans', sans-serif;
