@@ -14,8 +14,6 @@
 
 
 
-
-
 body,
 input,
 textarea,
@@ -448,23 +446,16 @@ h6,
   color: #efefef;
   font-family: 'PT Sans', sans-serif;
 }
-#header3-2l .mbr-section-title,
-#header3-2l .mbr-section-subtitle {
+#header3-2p .mbr-section-title,
+#header3-2p .mbr-section-subtitle {
   text-align: center;
 }
-#header3-2l .mbr-section-title {
+#header3-2p .mbr-section-title SPAN {
   color: #edffdb;
   font-family: 'PT Sans Narrow', sans-serif;
-  text-align: left;
 }
-#header3-2l .mbr-section-subtitle {
-  color: #ffffff;
-  font-family: 'PT Sans Narrow', sans-serif;
+#header3-2p .mbr-section-title {
   text-align: left;
-}
-#header3-2l .mbr-section-title SPAN {
-  color: #edffdb;
-  font-family: 'PT Sans Narrow', sans-serif;
 }
 #content1-2m P {
   color: #efefef;
