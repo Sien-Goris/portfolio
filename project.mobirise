@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "atelier '16-'17",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -513,6 +513,17 @@
                 "thumb": "@PROJECT_PATH@/assets/images/rien-5-2000x2363-800x945.jpg",
                 "alt": "",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/rien-6-1492x2619.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rien-6-1492x2619-800x1404.jpg",
+                "alt": "",
+                "caption": "Type caption here",
                 "active": true
               }
             ]
@@ -844,6 +855,28 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/model-2-2000x2387.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/model-2-2000x2387-800x954.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/model-3-1999x1611.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/model-3-1999x1611-800x644.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/model-4-1999x1768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/model-4-1999x1768-800x707.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
