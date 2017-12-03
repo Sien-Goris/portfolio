@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "atelier '16-'17",
-    "currentPage": "page6.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -520,11 +520,22 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/rien-7-1999x2657.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rien-7-1999x2657-800x1063.jpg",
+                "alt": "",
+                "caption": "z.t.<br>2017<br>olie op paneel<br>40x30 cm",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/rien-6-1492x2619.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/rien-6-1492x2619-800x1404.jpg",
                 "alt": "",
                 "caption": "z.t.<br>2017<br>olie op doek<br>75x40 cm",
-                "active": true
+                "active": false
               }
             ]
           },
