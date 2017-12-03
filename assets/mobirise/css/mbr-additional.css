@@ -539,6 +539,7 @@ h6,
   color: #c0a375!important;
 }
 
+
 #header3-w .mbr-section-title,
 #header3-w .mbr-section-subtitle {
   text-align: center;
@@ -546,6 +547,9 @@ h6,
 #header3-w .mbr-section-title {
   color: #383e32;
   text-align: center;
+}
+#gallery3-x .mbr-gallery-item > div > span {
+  font-family: 'PT Sans', sans-serif;
 }
 #ext_menu-18 .hide-buttons .nav-btn {
   display: none !important;
@@ -610,9 +614,13 @@ h6,
   color: #c0a375!important;
 }
 
+
 #header3-1c .mbr-section-title,
 #header3-1c .mbr-section-subtitle {
   text-align: center;
+}
+#gallery3-1d .mbr-gallery-item > div > span {
+  font-family: 'PT Sans', sans-serif;
 }
 #ext_menu-1m .hide-buttons .nav-btn {
   display: none !important;
@@ -677,12 +685,16 @@ h6,
   color: #c0a375!important;
 }
 
+
 #header3-1p .mbr-section-title,
 #header3-1p .mbr-section-subtitle {
   text-align: center;
 }
 #header3-1p .mbr-section-title {
   color: #383e32;
+}
+#gallery3-1q .mbr-gallery-item > div > span {
+  font-family: 'PT Sans', sans-serif;
 }
 #ext_menu-1x .hide-buttons .nav-btn {
   display: none !important;
@@ -747,12 +759,16 @@ h6,
   color: #c0a375!important;
 }
 
+
 #header3-22 .mbr-section-title,
 #header3-22 .mbr-section-subtitle {
   text-align: center;
 }
 #header3-22 .mbr-section-title {
   color: #383e32;
+}
+#gallery2-23 .mbr-gallery-item > div > span {
+  font-family: 'PT Sans', sans-serif;
 }
 #ext_menu-28 .hide-buttons .nav-btn {
   display: none !important;
@@ -817,12 +833,16 @@ h6,
   color: #c0a375!important;
 }
 
+
 #header3-2f .mbr-section-title,
 #header3-2f .mbr-section-subtitle {
   text-align: center;
 }
 #header3-2f .mbr-section-title {
   color: #383e32;
+}
+#gallery2-2g .mbr-gallery-item > div > span {
+  font-family: 'PT Sans', sans-serif;
 }
 #ext_menu-2j .hide-buttons .nav-btn {
   display: none !important;

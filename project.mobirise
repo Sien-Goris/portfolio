@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "atelier '16-'17",
-    "currentPage": "page2.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -468,7 +468,7 @@
                 "image": "@PROJECT_PATH@/assets/images/rien-1-552x947.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/rien-1-552x947-552x947.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "z.t.<br>2017<br>olie op paneel<br><br>",
                 "active": false
               },
               {
@@ -479,7 +479,7 @@
                 "image": "@PROJECT_PATH@/assets/images/rien-3-947x593.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/rien-3-947x593-800x500.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "z.t.<br>2017<br>olie op paneel",
                 "active": false
               },
               {
@@ -490,7 +490,7 @@
                 "image": "@PROJECT_PATH@/assets/images/rien-2-937x559.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/rien-2-937x559-800x477.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "z.t.<br>2017<br>olie op paneel<br><br>",
                 "active": false
               },
               {
@@ -501,7 +501,7 @@
                 "image": "@PROJECT_PATH@/assets/images/rien-4-584x929.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/rien-4-584x929-584x929.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "z.t.<br>2017<br>olie op paneel<br><br>",
                 "active": false
               },
               {
@@ -512,7 +512,7 @@
                 "image": "@PROJECT_PATH@/assets/images/rien-5-2000x2363.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/rien-5-2000x2363-800x945.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "z.t.<br>2017<br>grafiet op papier<br><br>",
                 "active": false
               },
               {
@@ -534,7 +534,13 @@
           "articleLayout": false,
           "allItem": "All",
           "_name": "gallery3",
-          "_anchor": "gallery3-x"
+          "_anchor": "gallery3-x",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          }
         },
         {
           "_inherit": "menu",
@@ -666,7 +672,7 @@
             "paddingBottom": 1,
             "filterBgColor": true,
             "bgColor": "#efefef",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "images": [
               {
@@ -677,7 +683,7 @@
                 "image": "@PROJECT_PATH@/assets/images/familie-1-1630x1803.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/familie-1-1630x1803-800x884.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "z.t.<br>2017<br>olie op hout<br><br>",
                 "active": false
               },
               {
@@ -688,7 +694,7 @@
                 "image": "@PROJECT_PATH@/assets/images/familie-2-2000x1523.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/familie-2-2000x1523-800x609.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "z.t.<br>2017<br>olie op hout<br><br>",
                 "active": true
               }
             ]
@@ -699,7 +705,13 @@
           "articleLayout": false,
           "allItem": "All",
           "_name": "gallery3",
-          "_anchor": "gallery3-1d"
+          "_anchor": "gallery3-1d",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          }
         },
         {
           "_inherit": "menu",
@@ -834,7 +846,7 @@
             "paddingBottom": "0",
             "filterBgColor": true,
             "bgColor": "#efefef",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "images": [
               {
@@ -845,7 +857,7 @@
                 "image": "@PROJECT_PATH@/assets/images/model-1-2000x2497.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/model-1-2000x2497-800x998.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "z.t.<br>2017<br>olie op paneel<br><br>",
                 "active": false
               },
               {
@@ -856,7 +868,7 @@
                 "image": "@PROJECT_PATH@/assets/images/model-2-2000x2387.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/model-2-2000x2387-800x954.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "z.t.<br>2017<br>olie op paneel",
                 "active": false
               },
               {
@@ -867,7 +879,7 @@
                 "image": "@PROJECT_PATH@/assets/images/model-3-1999x1611.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/model-3-1999x1611-800x644.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "z.t.<br>2017<br>olie op paneel<br><br>",
                 "active": false
               },
               {
@@ -878,7 +890,7 @@
                 "image": "@PROJECT_PATH@/assets/images/model-4-1999x1768.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/model-4-1999x1768-800x707.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "z.t.<br>2017<br>olie op doek<br><br>",
                 "active": true
               }
             ]
@@ -889,7 +901,13 @@
           "articleLayout": false,
           "allItem": "All",
           "_name": "gallery3",
-          "_anchor": "gallery3-1q"
+          "_anchor": "gallery3-1q",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          }
         },
         {
           "_inherit": "menu",
@@ -1024,7 +1042,7 @@
             "paddingBottom": 4,
             "filterBgColor": false,
             "bgColor": "#efefef",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "images": [
               {
@@ -1035,7 +1053,7 @@
                 "image": "@PROJECT_PATH@/assets/images/machelen-1999x1534.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/machelen-1999x1534-800x613.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "z.t.<br>2017<br>olie op hout<br><br>",
                 "active": true
               }
             ]
@@ -1046,7 +1064,13 @@
           "articleLayout": false,
           "allItem": "All",
           "_name": "gallery2",
-          "_anchor": "gallery2-23"
+          "_anchor": "gallery2-23",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          }
         },
         {
           "_inherit": "menu",
@@ -1181,7 +1205,7 @@
             "paddingBottom": 4,
             "filterBgColor": false,
             "bgColor": "#efefef",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "images": [
               {
@@ -1192,7 +1216,7 @@
                 "image": "@PROJECT_PATH@/assets/images/zelfportret-1119x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/zelfportret-1119x1333-800x952.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "z.t.<br>2017<br>olie op doek<br>27x24 cm",
                 "active": true
               }
             ]
@@ -1203,7 +1227,13 @@
           "articleLayout": false,
           "allItem": "All",
           "_name": "gallery2",
-          "_anchor": "gallery2-2g"
+          "_anchor": "gallery2-2g",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          }
         },
         {
           "_inherit": "menu",
