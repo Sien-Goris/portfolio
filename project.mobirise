@@ -326,7 +326,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
@@ -457,7 +457,7 @@
             "paddingBottom": "0",
             "filterBgColor": true,
             "bgColor": "#efefef",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "images": [
               {
@@ -523,7 +523,7 @@
                 "image": "@PROJECT_PATH@/assets/images/rien-6-1492x2619.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/rien-6-1492x2619-800x1404.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "z.t.<br>2017<br>olie op doek<br>75x40 cm",
                 "active": true
               }
             ]
@@ -539,7 +539,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
@@ -704,7 +704,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
@@ -894,7 +894,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
@@ -1051,7 +1051,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
@@ -1208,7 +1208,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
