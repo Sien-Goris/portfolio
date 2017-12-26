@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "atelier '16-'17",
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -72,7 +72,7 @@
             "showArrow": false,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/familie-2-2000x1523.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/zelfportret-3-2000x1862.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#ffe1cd",
@@ -209,8 +209,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/zelfportret-1119x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/zelfportret-1119x1333-800x952.jpg",
+                "image": "@PROJECT_PATH@/assets/images/zelfportret-2-2000x2378.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/zelfportret-2-2000x2378-800x951.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -220,8 +220,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/machelen-1999x1534.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/machelen-1999x1534-800x613.jpg",
+                "image": "@PROJECT_PATH@/assets/images/model-3-1999x1611.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/model-3-1999x1611-800x644.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -231,22 +231,22 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/model-2-2000x2387.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/model-2-2000x2387-800x954.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/familie-2-2000x1523.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/familie-2-2000x1523-800x609.jpg",
+                "image": "@PROJECT_PATH@/assets/images/familie-1-1630x1803.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/familie-1-1630x1803-800x884.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/model-4-1999x1768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/model-4-1999x1768-800x707.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
