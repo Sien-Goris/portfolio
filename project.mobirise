@@ -706,6 +706,17 @@
                 "thumb": "@PROJECT_PATH@/assets/images/familie-2-2000x1523-800x609.jpg",
                 "alt": "",
                 "caption": "z.t.<br>2017<br>olie op hout<br>13.5x16.8 cm",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/familie-3-2000x1646.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/familie-3-2000x1646-800x658.jpg",
+                "alt": "",
+                "caption": "z.t.<br>2017<br>olie op doek<br>50x60 cm",
                 "active": true
               }
             ]
@@ -1249,7 +1260,7 @@
                 "image": "@PROJECT_PATH@/assets/images/zelfportret-3-2000x1862.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/zelfportret-3-2000x1862-800x744.jpg",
                 "alt": "",
-                "caption": "z.t.<br>2017<br>olie op doek<br>27x22 cm",
+                "caption": "z.t.<br>2017<br>olie op doek<br>&nbsp;cm",
                 "active": true
               }
             ]
