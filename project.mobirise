@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 98,
+    "uniqCompNum": 101,
     "versionPublish": "4.3.0",
     "favicon": "",
     "noImageResize": ""
@@ -1226,6 +1226,28 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/zelfportret-1119x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/zelfportret-1119x1333-800x952.jpg",
+                "alt": "",
+                "caption": "z.t.<br>2017<br>olie op doek<br>27x22 cm",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/zelfportret-2-2000x2378.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/zelfportret-2-2000x2378-800x951.jpg",
+                "alt": "",
+                "caption": "z.t.<br>2017<br>olie op doek<br>27x22 cm",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/zelfportret-3-2000x1862.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/zelfportret-3-2000x1862-800x744.jpg",
                 "alt": "",
                 "caption": "z.t.<br>2017<br>olie op doek<br>27x22 cm",
                 "active": true
