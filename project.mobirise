@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "atelier '16-'17",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -717,6 +717,39 @@
                 "thumb": "@PROJECT_PATH@/assets/images/familie-3-2000x1646-800x658.jpg",
                 "alt": "",
                 "caption": "z.t.<br>2017<br>olie op doek<br>50x60 cm",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/calais-3-2000x2457.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/calais-3-2000x2457-800x982.jpg",
+                "alt": "",
+                "caption": "Calais<br>2017<br>gouache op doek<br>50x60 cm",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/calais-4-2000x2071.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/calais-4-2000x2071-800x828.jpg",
+                "alt": "",
+                "caption": "Calais<br>2017<br>gouache op doek<br>50x60 cm",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/calais-6-2000x1986.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/calais-6-2000x1986-800x794.jpg",
+                "alt": "",
+                "caption": "Calais<br>2017<br>gouache op doek<br>50x60 cm",
                 "active": true
               }
             ]
@@ -1075,7 +1108,51 @@
                 "image": "@PROJECT_PATH@/assets/images/machelen-1999x1534.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/machelen-1999x1534-800x613.jpg",
                 "alt": "",
-                "caption": "z.t.<br>2017<br>olie op hout<br>16.7x13.5 cm<br>",
+                "caption": "Machelen<br>2017<br>olie op hout<br>16.7x13.5 cm<br>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/calais-1-2000x918.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/calais-1-2000x918-800x367.jpg",
+                "alt": "",
+                "caption": "Calais<br>2017<br>gouache op doek<br>16.7x13.5 cm<br>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/calais-2-2000x977.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/calais-2-2000x977-800x390.jpg",
+                "alt": "",
+                "caption": "Calais<br>2017<br>gouache op doek<br>16.7x13.5 cm<br>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/calais-5-2000x2340.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/calais-5-2000x2340-800x936.jpg",
+                "alt": "",
+                "caption": "Calais<br>2017<br>gouache op doek<br>16.7x13.5 cm<br>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/calais-7-2000x1566.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/calais-7-2000x1566-800x626.jpg",
+                "alt": "",
+                "caption": "Calais<br>2017<br>gouache op doek<br>16.7x13.5 cm<br>",
                 "active": true
               }
             ]
