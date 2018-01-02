@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "atelier '16-'17",
-    "currentPage": "page3.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -905,17 +905,6 @@
             "filter": false,
             "images": [
               {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/model-1-2000x2497.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/model-1-2000x2497-800x998.jpg",
-                "alt": "",
-                "caption": "z.t.<br>2017<br>olie op paneel<br>31x25 cm",
-                "active": false
-              },
-              {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -924,6 +913,17 @@
                 "thumb": "@PROJECT_PATH@/assets/images/model-2-2000x2387-800x954.jpg",
                 "alt": "",
                 "caption": "z.t.<br>2017<br>olie op paneel<br>25x29.7 cm",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/model-1-2000x2497.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/model-1-2000x2497-800x998.jpg",
+                "alt": "",
+                "caption": "z.t.<br>2017<br>olie op paneel<br>31x25 cm",
                 "active": false
               },
               {
@@ -1120,7 +1120,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/calais-1-2000x918-800x367.jpg",
                 "alt": "",
                 "caption": "Calais<br>2017<br>gouache op doek<br>8x16 cm<br>",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -1153,7 +1153,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/calais-7-2000x1566-800x626.jpg",
                 "alt": "",
                 "caption": "Calais<br>2017<br>gouache op doek<br>26.5x34cm<br>",
-                "active": true
+                "active": false
               }
             ]
           },
