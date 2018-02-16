@@ -478,10 +478,10 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/rien-3-947x593.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rien-3-947x593-800x500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rien-4-584x929.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rien-4-584x929-584x929.jpg",
                 "alt": "",
-                "caption": "z.t.<br>2017<br>olie op paneel<br>33.5x21 cm",
+                "caption": "Rien<br>2017<br>olie op paneel<br>33.5x21 cm",
                 "active": false
               },
               {
@@ -500,21 +500,10 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/rien-4-584x929.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rien-4-584x929-584x929.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rien-3-947x593.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rien-3-947x593-800x500.jpg",
                 "alt": "",
-                "caption": "Rien<br>2017<br>olie op paneel<br>33.5x21 cm",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/rien-7-1999x2657.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rien-7-1999x2657-800x1063.jpg",
-                "alt": "",
-                "caption": "Rien<br>2017<br>olie op paneel<br>40x30 cm",
+                "caption": "z.t.<br>2017<br>olie op paneel<br>33.5x21 cm",
                 "active": false
               },
               {
@@ -527,6 +516,17 @@
                 "alt": "",
                 "caption": "Rien<br>2017<br>olie op doek<br>70x40 cm",
                 "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/rien-7-1999x2657.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rien-7-1999x2657-800x1063.jpg",
+                "alt": "",
+                "caption": "Rien<br>2017<br>olie op paneel<br>40x30 cm",
+                "active": false
               }
             ]
           },
@@ -708,7 +708,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/familie-2-2000x1523-800x609.jpg",
                 "alt": "",
                 "caption": "papa<br>2017<br>olie op hout<br>13.5x16.8 cm",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -763,7 +763,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/calais-6-2000x1986-800x794.jpg",
                 "alt": "",
                 "caption": "Calais<br>2017<br>gouache op doek<br>20.5x20.5 cm",
-                "active": true
+                "active": false
               }
             ]
           },
@@ -922,8 +922,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/model-2-2000x2387.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/model-2-2000x2387-800x954.jpg",
+                "image": "@PROJECT_PATH@/assets/images/model-1-2000x2387.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/model-1-2000x2387-800x954.jpg",
                 "alt": "",
                 "caption": "z.t.<br>2017<br>olie op paneel<br>25x29.7 cm",
                 "active": false
@@ -933,8 +933,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/model-1-2000x2497.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/model-1-2000x2497-800x998.jpg",
+                "image": "@PROJECT_PATH@/assets/images/model-2-2000x2497.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/model-2-2000x2497-800x998.jpg",
                 "alt": "",
                 "caption": "z.t.<br>2017<br>olie op paneel<br>31x25 cm",
                 "active": false
@@ -1118,19 +1118,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/machelen-1999x1534.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/machelen-1999x1534-800x613.jpg",
-                "alt": "",
-                "caption": "Machelen<br>2017<br>olie op hout<br>16.7x13.5 cm<br>",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/machelen-2000x1717.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/machelen-2000x1717-800x686.jpg",
+                "image": "@PROJECT_PATH@/assets/images/machelen-1-2000x1717.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/machelen-1-2000x1717-800x686.jpg",
                 "alt": "",
                 "caption": "z.t.<br>2017<br>olie op doek<br>cm<br>",
                 "active": true
@@ -1140,10 +1129,10 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/calais-1-2000x918.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/calais-1-2000x918-800x367.jpg",
+                "image": "@PROJECT_PATH@/assets/images/calais-7-2000x1566.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/calais-7-2000x1566-800x626.jpg",
                 "alt": "",
-                "caption": "Calais<br>2017<br>gouache op doek<br>8x16 cm<br>",
+                "caption": "Calais<br>2017<br>gouache op doek<br>26.5x34cm<br>",
                 "active": false
               },
               {
@@ -1151,10 +1140,10 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/calais-2-2000x977.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/calais-2-2000x977-800x390.jpg",
+                "image": "@PROJECT_PATH@/assets/images/machelen-2-1999x1534.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/machelen-2-1999x1534-800x613.jpg",
                 "alt": "",
-                "caption": "Calais<br>2017<br>gouache op doek<br>8x16 cm<br>",
+                "caption": "Machelen<br>2017<br>olie op hout<br>16.7x13.5 cm<br>",
                 "active": false
               },
               {
@@ -1166,17 +1155,6 @@
                 "thumb": "@PROJECT_PATH@/assets/images/calais-5-2000x2340-800x936.jpg",
                 "alt": "",
                 "caption": "Calais<br>2017<br>gouache op doek<br>19.5x17cm<br>",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/calais-7-2000x1566.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/calais-7-2000x1566-800x626.jpg",
-                "alt": "",
-                "caption": "Calais<br>2017<br>gouache op doek<br>26.5x34cm<br>",
                 "active": false
               }
             ]
