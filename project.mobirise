@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "atelier '16-'17",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -211,8 +211,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/zelfportret-2-2000x2319.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/zelfportret-2-2000x2319-800x927.jpg",
+                "image": "@PROJECT_PATH@/assets/images/machelen-1-2000x1717.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/machelen-1-2000x1717-800x686.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
@@ -233,8 +233,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/familie-1-1630x1803.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/familie-1-1630x1803-800x884.jpg",
+                "image": "@PROJECT_PATH@/assets/images/calais-7-2000x1566.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/calais-7-2000x1566-800x626.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
