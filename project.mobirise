@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "atelier '16-'17",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -693,6 +693,17 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/familie-3-2000x1651.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/familie-3-2000x1651-800x660.jpg",
+                "alt": "",
+                "caption": "Charles<br>2018<br>olie op doek<br>50x60 cm",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/calais-4-2000x2071.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/calais-4-2000x2071-800x828.jpg",
                 "alt": "",
@@ -708,7 +719,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/familie-2-2000x1523-800x609.jpg",
                 "alt": "",
                 "caption": "papa<br>2017<br>olie op hout<br>13.5x16.8 cm",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -719,17 +730,6 @@
                 "thumb": "@PROJECT_PATH@/assets/images/familie-1-1630x1803-800x884.jpg",
                 "alt": "",
                 "caption": "z.t.<br>2017<br>olie op hout<br>13.5x14 cm",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/familie-3-2000x1646.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/familie-3-2000x1646-800x658.jpg",
-                "alt": "",
-                "caption": "z.t.<br>2017<br>olie op doek<br>50x60 cm",
                 "active": false
               },
               {
@@ -753,6 +753,17 @@
                 "alt": "",
                 "caption": "Rien<br>2017<br>grafiet op papier<br>29.7x42 cm",
                 "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/calais-8-1828x2412.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/calais-8-1828x2412-800x1055.jpg",
+                "alt": "",
+                "caption": "Calais<br>2018<br>gouache op doek<br>cm",
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -1118,11 +1129,17 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/machelen-1-2000x1717.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/machelen-1-2000x1717-800x686.jpg",
+                "image": "@PROJECT_PATH@/assets/images/machelen-3-1999x1302.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/machelen-3-1999x1302-800x521.jpg",
                 "alt": "",
-                "caption": "z.t.<br>2017<br>olie op doek<br>cm<br>",
-                "active": true
+                "caption": "Machelen<br>2018<br>olie op doek<br>60x45 cm<br>",
+                "active": false
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/deinze-2-2000x1638.jpg",
+                "alt": "",
+                "caption": "Deinze<br>2018<br>olie op doek<br>45x54 cm"
               },
               {
                 "tags": "Awesome",
@@ -1134,6 +1151,23 @@
                 "alt": "",
                 "caption": "Calais<br>2017<br>gouache op doek<br>26.5x34cm<br>",
                 "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/machelen-1-2000x1717.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/machelen-1-2000x1717-800x686.jpg",
+                "alt": "",
+                "caption": "Machelen<br>2017<br>olie op doek<br>cm<br>",
+                "active": false
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/deinze-1-1999x1503.jpg",
+                "alt": "",
+                "caption": "Deinze<br>2018<br>gouache op doek<br>cm"
               },
               {
                 "tags": "Awesome",
@@ -1314,8 +1348,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/zelfportret-2-2000x2319.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/zelfportret-2-2000x2319-800x927.jpg",
+                "image": "@PROJECT_PATH@/assets/images/zelfportret-2-2000x2491.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/zelfportret-2-2000x2491-800x996.jpg",
                 "alt": "",
                 "caption": "z.t.<br>2017<br>olie op doek<br>&nbsp;27x22 cm",
                 "active": true
