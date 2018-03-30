@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#cbe624",
+        "primaryColor": "#bdcf4f",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#bdcf4f",
         "#cbe624",
         "#edffdb",
         "#f1fde5",
         "#d1e5bc",
         "#e0ffc1",
-        "#383e32",
-        "#f9b279"
+        "#383e32"
       ]
     },
     "versionFirst": "4.3.0",
@@ -61,7 +61,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
             },
             ".mbr-section-title P": {
-              "color": "#edffdb",
+              "color": "#bdcf4f",
               "text-align": "right",
               "font-family": "'PT Sans Narrow', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
@@ -108,7 +108,8 @@
             },
             ".mbr-section-title SPAN": {
               "font-family": "'PT Sans Narrow', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "color": "#efefef"
             }
           },
           "_params": {
