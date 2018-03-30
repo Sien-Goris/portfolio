@@ -15,6 +15,11 @@
 
 
 
+
+
+
+
+
 body,
 input,
 textarea,
@@ -465,6 +470,21 @@ h6,
 #content1-2m DIV {
   font-family: 'PT Sans', sans-serif;
   color: #efefef;
+}
+#msg-box5-2u H3 {
+  font-family: 'PT Sans', sans-serif;
+}
+#msg-box5-2v H3 {
+  font-family: 'PT Sans', sans-serif;
+}
+#msg-box5-2y H3 {
+  font-family: 'PT Sans', sans-serif;
+}
+#msg-box5-2z H3 {
+  font-family: 'PT Sans', sans-serif;
+}
+#msg-box5-31 H3 {
+  font-family: 'PT Sans', sans-serif;
 }
 #form1-d .form-control-label {
   color: #f1fde5;
