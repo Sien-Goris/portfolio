@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "atelier '16-'17",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -655,7 +655,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#383e32",
+              "color": "#cbe624",
               "text-align": "center"
             }
           },
@@ -834,7 +834,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#cbe624!important"
             }
           },
           "logo": {
@@ -872,6 +872,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#cbe624"
             }
           },
           "_params": {
@@ -1082,7 +1085,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#cbe624!important"
             }
           },
           "logo": {
@@ -1122,7 +1125,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#383e32"
+              "color": "#cbe624"
             }
           },
           "_params": {
@@ -1278,7 +1281,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#cbe624!important"
             }
           },
           "logo": {
@@ -1318,7 +1321,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#383e32"
+              "color": "#cbe624"
             }
           },
           "_params": {
@@ -1497,7 +1500,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#cbe624!important"
             }
           },
           "logo": {
@@ -1537,7 +1540,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#383e32"
+              "color": "#cbe624"
             }
           },
           "_params": {
@@ -1671,7 +1674,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#cbe624!important"
             }
           },
           "logo": {
