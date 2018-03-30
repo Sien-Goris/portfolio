@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#cbe624",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#cbe624",
         "#edffdb",
         "#f1fde5",
         "#d1e5bc",
         "#e0ffc1",
         "#383e32",
-        "#f9b279",
-        "#9c9a9a"
+        "#f9b279"
       ]
     },
     "versionFirst": "4.3.0",
@@ -237,7 +237,7 @@
               "size": 0
             }
           },
-          "title": "TUIN",
+          "title": "<a href=\"page2.html#header3-w\" class=\"text-primary\">TUIN</a>",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -295,7 +295,7 @@
               "size": 0
             }
           },
-          "title": "FAMILIE &amp; VRIENDEN",
+          "title": "<a href=\"page3.html#header3-1c\" class=\"text-primary\">FAMILIE &amp; VRIENDEN</a>",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -353,7 +353,7 @@
               "size": 0
             }
           },
-          "title": "MODELSCHILDEREN",
+          "title": "<a href=\"page4.html#header3-1p\" class=\"text-primary\">MODELSCHILDEREN</a>",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -411,7 +411,7 @@
               "size": 0
             }
           },
-          "title": "LANDSCHAPPEN",
+          "title": "<a href=\"page5.html#header3-22\" class=\"text-primary\">LANDSCHAPPEN</a>",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -469,7 +469,7 @@
               "size": 0
             }
           },
-          "title": "ZELFPORTRETTEN",
+          "title": "<a href=\"page6.html#header3-2f\" class=\"text-primary\">ZELFPORTRETTEN</a>",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
