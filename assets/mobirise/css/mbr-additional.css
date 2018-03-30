@@ -19,7 +19,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -448,6 +447,9 @@ h6,
   text-align: left;
   font-family: 'PT Sans Narrow', sans-serif;
 }
+#header3-e .mbr-section-title SPAN {
+  font-family: 'PT Sans Narrow', sans-serif;
+}
 #content1-f P {
   color: #efefef;
   font-family: 'PT Sans', sans-serif;
@@ -457,19 +459,11 @@ h6,
   text-align: center;
 }
 #header3-2p .mbr-section-title SPAN {
-  color: #edffdb;
+  color: #383e32;
   font-family: 'PT Sans Narrow', sans-serif;
 }
 #header3-2p .mbr-section-title {
   text-align: left;
-}
-#content1-2m P {
-  color: #efefef;
-  font-family: 'PT Sans', sans-serif;
-}
-#content1-2m DIV {
-  font-family: 'PT Sans', sans-serif;
-  color: #efefef;
 }
 #msg-box5-2u H3 {
   font-family: 'PT Sans', sans-serif;
