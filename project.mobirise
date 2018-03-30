@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "atelier '16-'17",
-    "currentPage": "page3.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1580,8 +1580,8 @@
                 "image": "@PROJECT_PATH@/assets/images/zelfportret-2-2000x2491.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/zelfportret-2-2000x2491-800x996.jpg",
                 "alt": "",
-                "caption": "z.t.<br>2017<br>olie op doek<br>&nbsp;27x22 cm",
-                "active": true
+                "caption": "zelfportret<br>2017<br>olie op doek<br>&nbsp;27x22 cm",
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -1591,8 +1591,19 @@
                 "image": "@PROJECT_PATH@/assets/images/zelfportret-3-2000x1852.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/zelfportret-3-2000x1852-800x740.jpg",
                 "alt": "",
-                "caption": "z.t.<br>2017<br>olie op doek<br>51x47 cm",
+                "caption": "zelfportret<br>2017<br>olie op doek<br>51x47 cm",
                 "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/zelfportret-4-2000x3678.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/zelfportret-4-2000x3678-800x1471.jpg",
+                "alt": "",
+                "caption": "zelfportret<br>2017<br>olie op doek<br>&nbsp;55x100cm",
+                "active": true
               }
             ]
           },
@@ -1676,7 +1687,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#cbe624!important"
+              "color": "#bdcf4f!important"
             }
           },
           "logo": {
