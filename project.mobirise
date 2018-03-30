@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "atelier '16-'17",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -595,7 +595,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#cbe624!important"
+              "color": "#bdcf4f!important"
             }
           },
           "logo": {
@@ -966,10 +966,32 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/silke-1999x2212.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/silke-1999x2212-800x885.jpg",
+                "alt": "",
+                "caption": "Silke<br>2018<br>olie op hout<br>20.5x22cm",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/calais-8-1828x2412.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/calais-8-1828x2412-800x1055.jpg",
                 "alt": "",
                 "caption": "Calais<br>2018<br>gouache op doek<br>cm",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/sarah-2000x2258.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sarah-2000x2258-800x903.jpg",
+                "alt": "",
+                "caption": "Sarah<br>2018<br>olie op hout<br>20.5x22cm",
                 "active": true
               },
               {
@@ -1065,7 +1087,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#cbe624!important"
+              "color": "#bdcf4f!important"
             }
           },
           "logo": {
