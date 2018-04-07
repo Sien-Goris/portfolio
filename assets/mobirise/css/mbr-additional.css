@@ -485,8 +485,9 @@ h6,
   color: #f1fde5;
 }
 #form1-d .mbr-section-title {
-  color: #f1fde5;
-  font-family: 'PT Sans', sans-serif;
+  color: #efefef;
+  font-family: 'PT Sans Narrow', sans-serif;
+  text-align: left;
 }
 #form1-d SMALL {
   color: #f1fde5;
